@@ -32,6 +32,3 @@ const shahanah = {
   frameworksAndTools: ["ASP.NET", "Flutter", "Flask", "jQuery", "Ajax", "Bootstrap", "Node.js", "Firebase", "SSIS", "Sage X3"],
   other: ["Linux", "Raspberry Pi"]
 }
-
-
----
