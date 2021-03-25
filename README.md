@@ -4,7 +4,7 @@
     <img src="./assets/cat.webp" width="50">
 </h2>
 <!-- avatar -->
-<img align='right' src="./assets/avatar.gif" width="230">
+<img align='right' src="./assets/avatar.gif" width="300">
 
 <p align="left"><em>
 Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a><img src="./assets/work.gif" width="30"> 
