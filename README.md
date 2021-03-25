@@ -12,16 +12,16 @@ Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a>
 <img src="./assets/education.webp" width="30">
 </em></p>
 
-How to reach me?
-<p>
-<a href="https://shahanah.netlify.app/"><img src="./assets/avatar.png" width="30" alt="pluralsight"></a> 
-<a href="https://www.linkedin.com/in/shahanah-puttaroo/"><img src="./assets/linkedin.png" width="30" alt="linked-in"></a>
-<a href="https://www.codechef.com/users/superhxman"><img src="./assets/codechef.png" width="30" alt="codechef"></a> 
-<a href="https://www.youracclaim.com/users/shahanah-puttaroo/badges"><img src="./assets/acclaim.png" width="30" alt="acclaim"></a> 
-<a href="https://app.pluralsight.com/profile/shahanah-puttaroo"><img src="./assets/pluralsight.png" width="30" alt="pluralsight"></a> 
-</p>
+<hr>
+<p align="center">
+  <i>Let's connect and chat!</i>
 
-<span> or drop me an email on `shahanahbp@gmail.com` </span>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shahanah-puttaroo/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:shahanahbp@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+
 
 ### <img src="./assets/spacecat.webp" width="50"> A little more about me...  
 
@@ -37,25 +37,3 @@ const shahanah = {
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=super-hxman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
-
-<br>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-hxman&show_icons=true&hide_border=true&theme=radical">
-</p>
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=super-hxman&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=super-hxman&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/super-hxman/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=super-hxman&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/super-hxman/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=super-hxman&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/super-hxman/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=super-hxman&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
