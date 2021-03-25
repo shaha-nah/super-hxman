@@ -41,7 +41,7 @@ const shahanah = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=super-hxman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
 
-<pre>
+<pre style="overflow: hidden">
   const shahanah = {
   pronouns: "she" | "her",
   languages : ["Python", "C#", "C++", "Java", "JavaScript", "SQL", "C", "Dart", "PHP", "VB.NET", "HTML", "CSS", "4GL"],
