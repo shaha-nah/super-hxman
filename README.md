@@ -1,22 +1,22 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
-<h2 align="center"> 
+<h2 align="left"> 
     Hi, I'm Shahanah! 
     <img src="./assets/cat.webp" width="50">
 </h2>
 <!-- avatar -->
-<!-- <img align='right' src="./assets/avatar.png" width="230"> -->
+<img align='right' src="./assets/avatar.gif" width="230">
 
-<p align="center"><em>
+<p align="left"><em>
 Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a><img src="./assets/work.gif" width="30"> 
 </br> BSc(Hons) Computer Science at  <a href="https://uom.ac.mu/">University of Mauritius</a>
 <img src="./assets/education.webp" width="30">
 </em></p>
 
 <hr>
-<p align="center">
+<p align="left">
   <i>Let's connect and chat!</i>
 
-  <p align="center">
+  <p align="ce">
     <a href="https://www.linkedin.com/in/shahanah-puttaroo/" alt="Linkedin"><img src="./assets/linkedin.gif" width="30"></a>
     <a href="mailto:shahanahbp@gmail.com" alt="Contact me"><img src="./assets/mail.gif" width="30"></a>
     <a href="https://shahanah.netlify.app/" alt="My site"><img src="./assets/link.gif" width="30"></a>
@@ -34,6 +34,6 @@ const shahanah = {
 }
 ```
 
-<p align='center'>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=super-hxman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
