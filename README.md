@@ -15,8 +15,8 @@ Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a>
 <p align="left">
   <i>Let's connect and chat!</i>
 </p>
-<!-- avatar -->
-<img align='right' src="./assets/avatar.gif" width="230">
+<!-- avatar
+<img align='right' src="./assets/avatar.gif" width="230"> -->
 
   <p align="ce">
     <a href="https://www.linkedin.com/in/shahanah-puttaroo/" alt="Linkedin"><img src="./assets/linkedin.gif" width="30"></a>
