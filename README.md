@@ -17,9 +17,9 @@ Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a>
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/shahanah-puttaroo/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:shahanahbp@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://www.linkedin.com/in/shahanah-puttaroo/" alt="Linkedin"><img src="./assets/linkedin.gif" width="30"></a>
+    <a href="mailto:shahanahbp@gmail.com" alt="Contact me"><img src="./assets/mail.gif" width="30"></a>
+    <a href="https://shahanah.netlify.app/" alt="My site"><img src="./assets/link.gif" width="30"></a>
   </p>
 
 
