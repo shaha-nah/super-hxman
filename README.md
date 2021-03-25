@@ -28,8 +28,11 @@ Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a>
 ```javascript
 const shahanah = {
   pronouns: "she" | "her",
-  languages : ["Python", "C#", "C++", "Python", "Java",  "JavaScript", "SQL", "C", "Dart", "PHP", "VB.NET", "HTML", "CSS", "4GL"],
-  frameworksAndTools: ["ASP.NET", "Flutter", "Flask", "jQuery", "Ajax", "Bootstrap", "Node.js", "Firebase", "SSIS", "Sage X3"],
+  languages : ["Python", "C#", "C++", "Java",  "JavaScript", 
+    "SQL", "C", "Dart", "PHP", "VB.NET", "HTML", "CSS", "4GL"],
+  frameworksAndTools: ["ASP.NET", "Flutter", "Flask", 
+    "jQuery", "Ajax", "Bootstrap", "Node.js", "Firebase",
+    "SSIS", "Sage X3"],
   other: ["Linux", "Raspberry Pi"]
 }
 ```
