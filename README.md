@@ -4,15 +4,11 @@
     Hi, I'm Shahanah! 
     <img src="./assets/cat.webp" width="50">
 </h2>
-
-
 <p align="center"><em>
 Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a><img src="./assets/work.gif" width="30"> 
 </br> BSc(Hons) Computer Science at  <a href="https://uom.ac.mu/">University of Mauritius</a>
 <img src="./assets/education.webp" width="30">
 </em></p>
-
-<hr>
 
 <!-- avatar -->
 <img align='right' src="./assets/avatar.gif" width="200">
