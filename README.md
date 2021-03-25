@@ -1,11 +1,12 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
-<h2 align="left"> 
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  -->
+
+<h2 align="center"> 
     Hi, I'm Shahanah! 
     <img src="./assets/cat.webp" width="50">
 </h2>
 
 
-<p align="left"><em>
+<p align="center"><em>
 Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a><img src="./assets/work.gif" width="30"> 
 </br> BSc(Hons) Computer Science at  <a href="https://uom.ac.mu/">University of Mauritius</a>
 <img src="./assets/education.webp" width="30">
@@ -15,8 +16,8 @@ Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a>
 <p align="left">
   <i>Let's connect and chat!</i>
 </p>
-<!-- avatar
-<img align='right' src="./assets/avatar.gif" width="230"> -->
+<!-- avatar -->
+<img align='right' src="./assets/avatar.gif" width="230">
 
   <p align="ce">
     <a href="https://www.linkedin.com/in/shahanah-puttaroo/" alt="Linkedin"><img src="./assets/linkedin.gif" width="30"></a>
