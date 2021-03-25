@@ -28,15 +28,25 @@ Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a>
 ```javascript
 const shahanah = {
   pronouns: "she" | "her",
-  languages : ["Python", "C#", "C++", "Java",  "JavaScript", 
-    "SQL", "C", "Dart", "PHP", "VB.NET", "HTML", "CSS", "4GL"],
-  frameworksAndTools: ["ASP.NET", "Flutter", "Flask", 
-    "jQuery", "Ajax", "Bootstrap", "Node.js", "Firebase",
-    "SSIS", "Sage X3"],
-  other: ["Linux", "Raspberry Pi"]
+  languages : ["Python", "C#", "C++", "Java", "JavaScript", "SQL", "C", "Dart", "PHP", "VB.NET", "HTML", "CSS", "4GL"],
+  frameworks: ["ASP.NET", "Flutter", "Flask", "jQuery", "Ajax", "Bootstrap", "Node.js", "Firebase", "SSIS", "Sage X3"],
+  tools: ["Linux", "Raspberry Pi"],
+  skills: ["Web Development", "Mobile App Development", "Database Design", "Object-Oriented Programming", "Algorithm & Data Structures", "Computer Vision"],
+  hobbies: ["Coding competitions", "Reading", "Playing instruments", "Gardening"]
 }
 ```
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=super-hxman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
+
+<pre>
+  const shahanah = {
+  pronouns: "she" | "her",
+  languages : ["Python", "C#", "C++", "Java", "JavaScript", "SQL", "C", "Dart", "PHP", "VB.NET", "HTML", "CSS", "4GL"],
+  frameworks: ["ASP.NET", "Flutter", "Flask", "jQuery", "Ajax", "Bootstrap", "Node.js", "Firebase", "SSIS", "Sage X3"],
+  tools: ["Linux", "Raspberry Pi"],
+  skills: ["Web Development", "Mobile App Development", "Database Design", "Object-Oriented Programming", "Algorithm & Data Structures", "Computer Vision"],
+  hobbies: ["Coding competitions", "Reading", "Playing instruments", "Gardening"]
+}</pre>
