@@ -10,7 +10,7 @@ Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a>
 </em></p>
 
 <!-- avatar -->
-<img align='right' src="./assets/avatar.gif" width="230">
+<a hreh="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align='right' src="./assets/avatar.gif" width="230"></a>
 <p align="left"><em>
 BSc(Hons) Computer Science at  <a href="https://uom.ac.mu/">University of Mauritius</a>
 <img src="./assets/education.webp" width="30">
