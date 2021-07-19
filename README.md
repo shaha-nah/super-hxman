@@ -5,14 +5,14 @@
     <img src="./assets/cat.webp" width="50">
 </h2>
 <p align="left"><em>
-Consultant at <a href="https://www.aberdeen-services.com/">Aberdeen Services</a><img src="./assets/work.gif" width="30"> 
+Application Development Associate at Accenture<img src="./assets/work.gif" width="30"> 
 </br> 
 </em></p>
 
 <!-- avatar -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align='right' src="./assets/avatar.gif" width="230"></a>
 <p align="left"><em>
-BSc(Hons) Computer Science at  <a href="https://uom.ac.mu/">University of Mauritius</a>
+BSc(Hons) Computer Science at University of Mauritius
 <img src="./assets/education.webp" width="30">
 </em></p>
 
