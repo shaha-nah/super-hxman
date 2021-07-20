@@ -5,7 +5,7 @@
     <img src="./assets/cat.webp" width="50">
 </h2>
 <p align="left"><em>
-Application Development Associate at Accenture<img src="./assets/work.gif" width="30"> 
+Application Development Associate at Accenture <img src="./assets/work.gif" width="30"> 
 </br> 
 </em></p>
 
