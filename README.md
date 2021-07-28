@@ -22,11 +22,12 @@ BSc(Hons) Computer Science at University of Mauritius
 ```javascript
 const shahanah = {
   pronouns: "she" | "her",
-  languages : ["Python", "C#", "C++", "Java", "JavaScript", "SQL", "C", "Dart", "PHP", "VB.NET", "HTML", "CSS", "4GL"],
-  frameworks: ["ASP.NET", "Flutter", "Flask", "jQuery", "Ajax", "Bootstrap", "Node.js", "Firebase", "SSIS", "Sage X3"],
-  tools: ["Linux", "Raspberry Pi"],
-  skills: ["Web Development", "Mobile App Development", "Database Design", "Object-Oriented Programming", "Algorithm & Data Structures", "Computer Vision"],
-  hobbies: ["Coding competitions", "Reading", "Playing instruments", "Gardening"]
+  languages : ["C#", "VB.NET"],
+  frameworks: ["ASP.NET"],
+  databases: ["SQL Server", "Oracle DB"],
+  skills: ["Web Development", "Object-Oriented Programming", "Database Design"],
+  interests: ["Competitive Programming", "Computer Vision", "Machine Learning"],
+  hobbies: ["Reading", "Music", "Crafting"]
 }
 ```
 
