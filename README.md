@@ -21,7 +21,7 @@ BSc(Hons) Computer Science at University of Mauritius
 
 ```javascript
 const shahanah = {
-  pronouns: "she" | "her",
+  pronouns: ["she", "her"],
   languages : ["C#", "VB.NET"],
   frameworks: ["ASP.NET"],
   databases: ["SQL Server", "Oracle DB"],
