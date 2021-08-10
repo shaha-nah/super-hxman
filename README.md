@@ -27,7 +27,7 @@ const shahanah = {
   databases: ["SQL Server", "Oracle DB"],
   skills: ["Web Development", "Object-Oriented Programming", "Database Design"],
   interests: ["Competitive Programming", "Computer Vision", "Machine Learning"],
-  hobbies: ["Reading", "Music", "Crafting"]
+  hobbies: ["Reading", "Making music", "Crafting"]
 }
 ```
 
